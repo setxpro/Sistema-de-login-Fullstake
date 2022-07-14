@@ -1,11 +1,8 @@
 # Sistema de login completo
 
 # Frontend 
-    - REACTJS | TYPESCRIPT
-
-```
-```
-
+    - REACTJS 
+    - TYPESCRIPT
 # Backend
     - NODEJS
     - MongoDB
